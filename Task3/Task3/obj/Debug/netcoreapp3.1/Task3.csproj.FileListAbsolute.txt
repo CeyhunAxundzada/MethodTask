@@ -1,0 +1,13 @@
+/Users/ceyhunaxundzade/Projects/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.deps.json
+/Users/ceyhunaxundzade/Projects/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.runtimeconfig.json
+/Users/ceyhunaxundzade/Projects/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.runtimeconfig.dev.json
+/Users/ceyhunaxundzade/Projects/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.dll
+/Users/ceyhunaxundzade/Projects/Task3/Task3/bin/Debug/netcoreapp3.1/Task3.pdb
+/Users/ceyhunaxundzade/Projects/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.csproj.AssemblyReference.cache
+/Users/ceyhunaxundzade/Projects/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ceyhunaxundzade/Projects/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.AssemblyInfoInputs.cache
+/Users/ceyhunaxundzade/Projects/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.AssemblyInfo.cs
+/Users/ceyhunaxundzade/Projects/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.csproj.CoreCompileInputs.cache
+/Users/ceyhunaxundzade/Projects/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.dll
+/Users/ceyhunaxundzade/Projects/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.pdb
+/Users/ceyhunaxundzade/Projects/Task3/Task3/obj/Debug/netcoreapp3.1/Task3.genruntimeconfig.cache
